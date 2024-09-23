@@ -1,1 +1,2 @@
-freeswitch/freeswitch:latest
+# freeswitch/freeswitch:latest
+zilliz/attu:w2.3.18
