@@ -1,1 +1,1 @@
-freeswitch:latest
+freeswitch/freeswitch:latest
